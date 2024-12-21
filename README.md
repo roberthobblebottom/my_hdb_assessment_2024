@@ -3,4 +3,4 @@
 
 my attempt,
 
-my ipynb is not really working well, you may use my marimo version that I orginally work with. Use the html version to see the outputs.
+my ipynb is available, but you may use my marimo version that I orginally work with. Use the html version to see the outputs.
